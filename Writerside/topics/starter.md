@@ -14,7 +14,7 @@ When you create a new help article, you can choose between two topic types, but 
 You can author content in Markdown and extend it with semantic attributes or inject entire XML elements.
 
 ## Inject XML
-For example, this is how you inject a procedure:
+For example, this is how yo vu inject a procedure:
 
 <procedure title="Inject a procedure" id="inject-a-procedure">
     <step>
